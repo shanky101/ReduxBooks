@@ -1,10 +1,10 @@
 
 export default function() {
     return [
-        { title : 'One'},
-        { title : 'TWO'},
-        { title : 'Three'},
-        { title : 'Four'},
+        { title : 'Swift Foundation', pages : 800},
+        { title : 'Javascript Essentails', pages : 400},
+        { title : 'Networking', pages : 250},
+        { title : 'iOS Development', pages : 300},
     ]
 }
 
